@@ -1,13 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Justins Pulpakunnel Varkey — quantum computing and machine learning" src="./assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/header-light.svg">
+  <img alt="Justins Pulpakunnel Varkey — quantum computing and machine learning" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/header-dark.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/title-about-light.svg">
-  <img alt="About" src="./assets/title-about-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-about-light.svg">
+  <img alt="About" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-about-dark.svg" width="100%">
 </picture>
 
 I'm Justins, an M.Sc. Data Science student at FAU Erlangen-Nürnberg, majoring in Machine Learning & AI.
@@ -16,42 +16,42 @@ I work on quantum computing, quantum machine learning and optimisation, alongsid
 **Background:** B.Sc. in Mathematics, Physics and Statistics (Mahatma Gandhi University, India).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-work-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/title-work-light.svg">
-  <img alt="Hackathons & quantum work" src="./assets/title-work-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-work-light.svg">
+  <img alt="Hackathons & quantum work" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-work-dark.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-light.svg">
-  <img alt="Siemens Healthineers Hackathon, 3rd place (Jan 2026). Bad Honnef Physics School on Quantum Machine Learning (Aug 2026). Qiskit Global Summer School 2026, Quantum Excellence (Aug 2026). ETH Zürich Quantum Hackathon 2026 (May 2026). Quantum Ideas Factory 2026 (Mar 2026). MIT iQuHACK 2026, NVIDIA challenge (Jan 2026). IQM Quantum School (Dec 2025). Qiskit Global Summer School 2025, Quantum Excellence (Aug 2025)." src="./assets/timeline-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/timeline-light.svg">
+  <img alt="Siemens Healthineers Hackathon, 3rd place (Jan 2026). Bad Honnef Physics School on Quantum Machine Learning (Aug 2026). Qiskit Global Summer School 2026, Quantum Excellence (Aug 2026). ETH Zürich Quantum Hackathon 2026 (May 2026). Quantum Ideas Factory 2026 (Mar 2026). MIT iQuHACK 2026, NVIDIA challenge (Jan 2026). IQM Quantum School (Dec 2025). Qiskit Global Summer School 2025, Quantum Excellence (Aug 2025)." src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/timeline-dark.svg" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/title-projects-light.svg">
-  <img alt="Selected projects" src="./assets/title-projects-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-projects-light.svg">
+  <img alt="Selected projects" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-projects-dark.svg" width="100%">
 </picture>
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-atlas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-atlas-light.svg"><img alt="ATLAS: cell-tower placement across Germany" src="./assets/project-atlas-dark.svg" width="49%"></picture>
-<a href="https://github.com/justinspv24/Real_time_Multi_facial_emotion_recognition"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-emotion-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-emotion-light.svg"><img alt="Real-time multi-face emotion recognition" src="./assets/project-emotion-dark.svg" width="49%"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-atlas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-atlas-light.svg"><img alt="ATLAS: cell-tower placement across Germany" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-atlas-dark.svg" width="49%"></picture>
+<a href="https://github.com/justinspv24/Real_time_Multi_facial_emotion_recognition"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-emotion-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-emotion-light.svg"><img alt="Real-time multi-face emotion recognition" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-emotion-dark.svg" width="49%"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/justinspv24/Tantrix_modeling"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-tantrix-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-tantrix-light.svg"><img alt="Tantrix puzzle optimisation" src="./assets/project-tantrix-dark.svg" width="49%"></picture></a>
-<a href="https://github.com/justinspv24/Tool-Condition-Monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-tcm-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-tcm-light.svg"><img alt="Tool condition monitoring" src="./assets/project-tcm-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/justinspv24/Tantrix_modeling"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-tantrix-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-tantrix-light.svg"><img alt="Tantrix puzzle optimisation" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-tantrix-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/justinspv24/Tool-Condition-Monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-tcm-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-tcm-light.svg"><img alt="Tool condition monitoring" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-tcm-dark.svg" width="49%"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/justinspv24/DL-to-detect-breast-cancer-from-mammography"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-mammo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-mammo-light.svg"><img alt="Breast cancer detection on mammograms" src="./assets/project-mammo-dark.svg" width="49%"></picture></a>
-<a href="https://github.com/justinspv24/Sentiment-Analysis-LSTM"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-sentiment-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-sentiment-light.svg"><img alt="Sentiment analysis with LSTM" src="./assets/project-sentiment-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/justinspv24/DL-to-detect-breast-cancer-from-mammography"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-mammo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-mammo-light.svg"><img alt="Breast cancer detection on mammograms" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-mammo-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/justinspv24/Sentiment-Analysis-LSTM"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-sentiment-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-sentiment-light.svg"><img alt="Sentiment analysis with LSTM" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/project-sentiment-dark.svg" width="49%"></picture></a>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/title-tools-light.svg">
-  <img alt="Tools" src="./assets/title-tools-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-tools-light.svg">
+  <img alt="Tools" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/title-tools-dark.svg" width="100%">
 </picture>
 
 <p><b>Quantum</b><br>
@@ -79,9 +79,9 @@ I work on quantum computing, quantum machine learning and optimisation, alongsid
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img alt="" src="./assets/divider-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/divider-light.svg">
+  <img alt="" src="https://raw.githubusercontent.com/justinspv24/justinspv24/main/assets/divider-dark.svg" width="100%">
 </picture>
 
 <p align="center"><sub>Open to work in quantum computing, ML and data science · Erlangen, Germany</sub></p>
