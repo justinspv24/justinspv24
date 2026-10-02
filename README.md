@@ -4,63 +4,103 @@
   <img alt="Justins Pulpakunnel Varkey — quantum computing and machine learning" src="./assets/header-dark.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://www.jpvlabs.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jpvlabs.com-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/justins-pulpakunnel-varkey-181648190/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:justins.varkey@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-justins.varkey%40gmail.com-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-## About
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-about-light.svg">
+  <img alt="About" src="./assets/title-about-dark.svg" width="100%">
+</picture>
 
 I'm Justins, an M.Sc. Data Science student at FAU Erlangen-Nürnberg, majoring in Machine Learning & AI.
 I work on quantum computing, quantum machine learning and optimisation, alongside classical machine learning.
 
-- **Background:** B.Sc. in Mathematics, Physics and Statistics (Mahatma Gandhi University, India).
-- **Experience:** research assistant at the ML & Data Analytics Lab, FAU (2024); business analyst before my master's.
-- **Now:** brain-tumour classification with a quantum SVM, compared against a classical baseline.
+**Background:** B.Sc. in Mathematics, Physics and Statistics (Mahatma Gandhi University, India).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img alt="" src="./assets/divider-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-work-light.svg">
+  <img alt="Hackathons & quantum work" src="./assets/title-work-dark.svg" width="100%">
 </picture>
-
-## Quantum work
-
-| Event | What I did | Code |
-| :-- | :-- | :-: |
-| **ETH Zürich Quantum Hackathon 2026** | Benchmarked photonic quantum PINNs for Quandela's challenge | [repo](https://github.com/justinspv24/ETH-zurich-quantum-hackathon-2026) |
-| **MIT iQuHACK 2026** · NVIDIA challenge | Seeded a classical memetic tabu search with quantum samples for the LABS problem | |
-| **Quantum Ideas Factory 2026** | Studied how much entanglement random permutation circuits create, up to 20 qubits | |
-| **IQM Quantum School** | Quantum algorithms and benchmarks on IBM Quantum and IQM hardware | [repo](https://github.com/justinspv24/IQM_Quantum_School) |
-| **Qiskit Global Summer School** 2025, 2026 | Quantum Excellence badge both years | |
-| **Bad Honnef Physics School** 2026 | Quantum machine learning, ZX calculus, tensor networks, error correction | |
-
-## Selected projects
-
-| Project | Method | Grade | Code |
-| :-- | :-- | :-: | :-: |
-| **ATLAS** — cell-tower placement across Germany | Two-phase MILP that picks tower sites and radii | 1.0 | |
-| **Real-time multi-face emotion recognition** | YOLOv5 + custom CNN | 1.0 | [repo](https://github.com/justinspv24/Real_time_Multi_facial_emotion_recognition) |
-| **Tantrix puzzle optimisation** | Mixed-integer linear programming | 1.3 | [repo](https://github.com/justinspv24/Tantrix_modeling) |
-| **Tool condition monitoring** | ML on vibration data to detect cutting-tool wear | — | [repo](https://github.com/justinspv24/Tool-Condition-Monitoring) |
-| **Breast cancer detection on mammograms** | Deep learning with multi-scale patches | — | [repo](https://github.com/justinspv24/DL-to-detect-breast-cancer-from-mammography) |
-| **Hack-A-Bot 2026** · Siemens Healthineers | Hackathon project, 3rd place | — | [repo](https://github.com/justinspv24/Hack-A-Bot-2026) |
-| **Sentiment analysis** | LSTM | 2.0 | [repo](https://github.com/justinspv24/Sentiment-Analysis-LSTM) |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
-  <img alt="" src="./assets/divider-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-light.svg">
+  <img alt="Siemens Healthineers Hackathon, 3rd place (Jan 2026). Bad Honnef Physics School on Quantum Machine Learning (Aug 2026). Qiskit Global Summer School 2026, Quantum Excellence (Aug 2026). ETH Zürich Quantum Hackathon 2026 (May 2026). Quantum Ideas Factory 2026 (Mar 2026). MIT iQuHACK 2026, NVIDIA challenge (Jan 2026). IQM Quantum School (Dec 2025). Qiskit Global Summer School 2025, Quantum Excellence (Aug 2025)." src="./assets/timeline-dark.svg" width="100%">
 </picture>
 
-## Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-projects-light.svg">
+  <img alt="Selected projects" src="./assets/title-projects-dark.svg" width="100%">
+</picture>
 
-**Quantum**&nbsp; ![Qiskit](https://img.shields.io/badge/Qiskit-2b2b2b?style=flat-square&logo=qiskit&logoColor=white) ![PennyLane](https://img.shields.io/badge/PennyLane-2b2b2b?style=flat-square) ![Qrisp](https://img.shields.io/badge/Qrisp-2b2b2b?style=flat-square) ![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-2b2b2b?style=flat-square&logo=ibm&logoColor=white) ![IQM](https://img.shields.io/badge/IQM%20Resonance-2b2b2b?style=flat-square)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-atlas-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-atlas-light.svg">
+  <img alt="ATLAS: cell-tower placement across Germany" src="./assets/project-atlas-dark.svg" width="49%">
+</picture>
+<a href="https://github.com/justinspv24/Real_time_Multi_facial_emotion_recognition"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-emotion-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-emotion-light.svg">
+  <img alt="Real-time multi-face emotion recognition" src="./assets/project-emotion-dark.svg" width="49%">
+</picture></a>
+</p>
 
-**Machine learning**&nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-2b2b2b?style=flat-square&logo=scikitlearn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-2b2b2b?style=flat-square&logo=huggingface&logoColor=white) ![Image Processing](https://img.shields.io/badge/Image%20Processing-2b2b2b?style=flat-square&logo=opencv&logoColor=white)
+<p align="center">
+<a href="https://github.com/justinspv24/Tantrix_modeling"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-tantrix-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-tantrix-light.svg">
+  <img alt="Tantrix puzzle optimisation" src="./assets/project-tantrix-dark.svg" width="49%">
+</picture></a>
+<a href="https://github.com/justinspv24/Tool-Condition-Monitoring"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-tcm-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-tcm-light.svg">
+  <img alt="Tool condition monitoring" src="./assets/project-tcm-dark.svg" width="49%">
+</picture></a>
+</p>
 
-**Data & tools**&nbsp; ![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-2b2b2b?style=flat-square&logo=linux&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-2b2b2b?style=flat-square&logo=tableau&logoColor=white)
+<p align="center">
+<a href="https://github.com/justinspv24/DL-to-detect-breast-cancer-from-mammography"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-mammo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-mammo-light.svg">
+  <img alt="Breast cancer detection on mammograms" src="./assets/project-mammo-dark.svg" width="49%">
+</picture></a>
+<a href="https://github.com/justinspv24/Sentiment-Analysis-LSTM"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sentiment-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-sentiment-light.svg">
+  <img alt="Sentiment analysis with LSTM" src="./assets/project-sentiment-dark.svg" width="49%">
+</picture></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/title-tools-light.svg">
+  <img alt="Tools" src="./assets/title-tools-dark.svg" width="100%">
+</picture>
+
+<p><b>Quantum</b><br>
+<img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-FFF000?style=for-the-badge&logo=qiskit&logoColor=000000">
+<img alt="PennyLane" src="https://img.shields.io/badge/PennyLane-FFF000?style=for-the-badge">
+<img alt="Qrisp" src="https://img.shields.io/badge/Qrisp-FFF000?style=for-the-badge">
+<img alt="IBM Quantum" src="https://img.shields.io/badge/IBM%20Quantum-FFF000?style=for-the-badge&logo=ibm&logoColor=000000">
+<img alt="IQM Resonance" src="https://img.shields.io/badge/IQM%20Resonance-FFF000?style=for-the-badge">
+</p>
+
+<p><b>Machine learning</b><br>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FFF000?style=for-the-badge&logo=pytorch&logoColor=000000">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FFF000?style=for-the-badge&logo=tensorflow&logoColor=000000">
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-FFF000?style=for-the-badge&logo=scikitlearn&logoColor=000000">
+<img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFF000?style=for-the-badge&logo=huggingface&logoColor=000000">
+<img alt="Image Processing" src="https://img.shields.io/badge/Image%20Processing-FFF000?style=for-the-badge&logo=opencv&logoColor=000000">
+</p>
+
+<p><b>Data & tools</b><br>
+<img alt="Python" src="https://img.shields.io/badge/Python-FFF000?style=for-the-badge&logo=python&logoColor=000000">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-FFF000?style=for-the-badge&logo=postgresql&logoColor=000000">
+<img alt="Git" src="https://img.shields.io/badge/Git-FFF000?style=for-the-badge&logo=git&logoColor=000000">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FFF000?style=for-the-badge&logo=linux&logoColor=000000">
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-FFF000?style=for-the-badge">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">

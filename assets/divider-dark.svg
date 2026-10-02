@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" role="img" aria-label="divider">
-  <defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#FFF000" stop-opacity="0"/><stop offset=".5" stop-color="#FFF000" stop-opacity=".55"/><stop offset="1" stop-color="#FFF000" stop-opacity="0"/></linearGradient>
-  <filter id="g" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <style>.p{animation:run 5s linear infinite}@keyframes run{0%{transform:translateX(0);opacity:0}6%{opacity:1}94%{opacity:1}100%{transform:translateX(1120px);opacity:0}}
-  @media (prefers-reduced-motion: reduce){.p{animation:none;opacity:0}}</style>
-  <line x1="40" y1="15" x2="1160" y2="15" stroke="url(#fade)" stroke-width="2"/>
-  <circle class="p" cx="40" cy="15" r="4" fill="#FFF000" filter="url(#g)"/>
-  <rect x="585.0" y="4" width="30" height="22" rx="5" fill="#161616" stroke="#FFF000" stroke-width="1.5"/>
-  <text x="600.0" y="20" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-weight="700" font-size="12" fill="#FFF000">H</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-label="divider">
+<title>divider</title>
+<style>.p{fill:#FFF000;filter:url(#glow);animation:run 5s linear infinite}
+@keyframes run{0%{transform:translateX(0);opacity:0}6%{opacity:1}94%{opacity:1}100%{transform:translateX(1120px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#FFF000" stop-opacity="0"/><stop offset=".5" stop-color="#FFF000" stop-opacity=".8"/><stop offset="1" stop-color="#FFF000" stop-opacity="0"/></linearGradient></defs>
+  <line x1="40" y1="17" x2="1160" y2="17" stroke="url(#fade)" stroke-width="2.5"/>
+  <circle cx="40" cy="17" r="4.5" class="p"/>
+  <rect x="583.0" y="4" width="34" height="26" rx="6" fill="#FFF000"/>
+  <text x="600.0" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-weight="800" font-size="13" fill="#000">H</text>
 </svg>

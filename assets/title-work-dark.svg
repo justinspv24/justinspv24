@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="Hackathons &amp; Quantum Work">
+<title>Hackathons &amp; Quantum Work</title>
+<style>
+.h{font:800 30px 'Barlow Condensed', 'Roboto Condensed', 'Arial Narrow', system-ui, Helvetica, Arial, sans-serif;fill:#000;letter-spacing:2px}
+.ln{stroke:#4A4A4A;stroke-width:2}
+.p{fill:#FFF000;filter:url(#glow);animation:run 5s linear infinite}
+@keyframes run{0%{transform:translateX(0);opacity:0}6%{opacity:1}94%{opacity:1}100%{transform:translateX(592.5px);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="0" y="12" width="544" height="52" rx="26" fill="#FFF000"/>
+  <text x="28" y="49" class="h" textLength="488" lengthAdjust="spacingAndGlyphs">HACKATHONS &amp; QUANTUM WORK</text>
+  <line x1="568" y1="38" x2="1160" y2="38" class="ln"/>
+  <circle cx="568" cy="38" r="5" class="p"/>
+</svg>

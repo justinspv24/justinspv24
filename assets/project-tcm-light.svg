@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="Tool condition monitoring">
+<title>Tool condition monitoring</title>
+<style>
+.ct{font:800 27px system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;fill:#000000}
+.cm{font:400 18px system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;fill:#5C5C5C}
+.pill{font:800 14px system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;letter-spacing:1px}
+.code{font:800 15px system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;fill:#000000;letter-spacing:1px}
+.shine{animation:shine 4s ease-in-out infinite;animation-delay:1.5s}
+@keyframes shine{0%,100%{opacity:.0}40%,60%{opacity:.9}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="598" height="198" rx="16" fill="#FFFFFF" stroke="#E9E9E9" stroke-width="2"/>
+  <rect x="1" y="1" width="12" height="198" rx="6" fill="#FFF000"/>
+  <rect x="1" y="1" width="12" height="198" rx="6" fill="#fff" class="shine" opacity="0"/>
+  <text x="44" y="60" class="ct">Tool condition</text><text x="44" y="94" class="ct">monitoring</text>
+  <text x="44" y="132" class="cm">ML on vibration data to detect cutting-tool wear</text>
+  <text x="564" y="168" class="code" text-anchor="end">CODE →</text>
+</svg>
