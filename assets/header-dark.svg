@@ -1,47 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Justins Pulpakunnel Varkey — quantum computing and machine learning">
 <title>Justins Pulpakunnel Varkey — quantum computing and machine learning</title>
 <style>
-.title{font:800 52px 'Barlow Condensed', 'Roboto Condensed', 'Arial Narrow', system-ui, Helvetica, Arial, sans-serif;fill:#FFF000;letter-spacing:1px}
-.sub{font:500 20px system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Helvetica, Arial, sans-serif;fill:#FFFFFF}
-.prompt{font:700 18px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#FFF000}
-.role{font:500 18px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#FFFFFF;opacity:0}
-.ket{font:500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#B3B3B3}
-.wire{stroke:#4A4A4A;stroke-width:2}
-.gbox{fill:#FFF000;stroke:#000;stroke-opacity:.15}
-.glabel{font:800 15px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#000}
-.ctl{stroke:#FFF000;stroke-width:2.5}
-.cdot{fill:#FFF000}
-.tgt{fill:#FFF000;stroke:#000;stroke-opacity:.15}
-.plus{stroke:#000;stroke-width:2.2;stroke-linecap:round}
-.meter{fill:none;stroke:#000;stroke-width:2;stroke-linecap:round}
+.title{font:800 52px 'Barlow Condensed', 'Roboto Condensed', 'Arial Narrow', system-ui, Helvetica, Arial, sans-serif;fill:#3fb950;letter-spacing:1px}
+.sub{font:500 20px system-ui, -apple-system, 'Segoe UI', 'Noto Sans', Roboto, Ubuntu, Helvetica, Arial, sans-serif;fill:#e6edf3}
+.prompt{font:700 18px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#3fb950}
+.role{font:500 18px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#e6edf3;opacity:0}
+.ket{font:500 15px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#9198a1}
+.wire{stroke:#30363d;stroke-width:2}
+.gbox{fill:#238636}
+.glabel{font:800 15px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#fff}
+.ctl{stroke:#238636;stroke-width:2.5}
+.cdot{fill:#238636}
+.tgt{fill:#238636}
+.plus{stroke:#fff;stroke-width:2.2;stroke-linecap:round}
+.meter{fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round}
 .gate{animation:fire 4.0s linear infinite;transform-box:fill-box;transform-origin:center}
-.pulse{fill:#FFF000;filter:url(#glow);animation:travel 4.0s linear infinite}
-.sph{fill:none;stroke:#000;stroke-width:2.2}
-.eq{fill:none;stroke:#000;stroke-width:1.4;stroke-dasharray:5 6}
-.faint{opacity:.45}
-.axis{stroke:#000;stroke-width:1.2;opacity:.5}
-.bket{font:700 16px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#000}
-.psi{font:800 20px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#000}
-.trail{fill:none;stroke:#000;stroke-width:1.4;stroke-dasharray:3 6;opacity:.45}
-.vec{stroke:#000;stroke-width:4.5;stroke-linecap:round}
-.tip{fill:#000}
+.pulse{fill:#3fb950;filter:url(#glow);animation:travel 4.0s linear infinite}
+.sph{fill:none;stroke:#fff;stroke-width:2.2}
+.eq{fill:none;stroke:#fff;stroke-width:1.4;stroke-dasharray:5 6;opacity:.85}
+.faint{opacity:.4}
+.axis{stroke:#fff;stroke-width:1.2;opacity:.5}
+.bket{font:700 16px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#fff}
+.psi{font:800 20px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#fff}
+.trail{fill:none;stroke:#fff;stroke-width:1.4;stroke-dasharray:3 6;opacity:.5}
+.vec{stroke:#fff;stroke-width:4.5;stroke-linecap:round}
+.tip{fill:#fff}
 .disc{animation:breathe 6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
 @keyframes travel{0%{transform:translateX(0);opacity:0}4%{opacity:1}96%{opacity:1}100%{transform:translateX(740px);opacity:0}}
 @keyframes fire{0%,100%{transform:scale(1)}3%{transform:scale(1.14)}9%{transform:scale(1)}}
 @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.03)}}
 @keyframes role{0%{opacity:0;transform:translateY(6px)}2.00%{opacity:1;transform:none}22.00%{opacity:1;transform:none}25.00%{opacity:0;transform:translateY(-6px)}100%{opacity:0}}.r0{animation:role 14.0s linear infinite;animation-delay:-14.00s}.r1{animation:role 14.0s linear infinite;animation-delay:-10.50s}.r2{animation:role 14.0s linear infinite;animation-delay:-7.00s}.r3{animation:role 14.0s linear infinite;animation-delay:-3.50s}
 @media (prefers-reduced-motion: reduce){.r0{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
-<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#FFFFFF" fill-opacity="0.05"/></pattern><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <rect width="1200" height="380" rx="18" fill="#1C1C1C"/>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity="0.05"/></pattern><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <radialGradient id="disc" cx=".38" cy=".32" r=".75"><stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#196c2e"/></radialGradient></defs>
+  <rect x="1" y="1" width="1198" height="378" rx="18" fill="#161b22" stroke="#30363d" stroke-width="2"/>
   <rect width="1200" height="380" rx="18" fill="url(#grid)"/>
   <text x="56" y="112" class="title" textLength="790" lengthAdjust="spacingAndGlyphs">JUSTINS PULPAKUNNEL VARKEY</text>
-  <rect x="56" y="128" width="84" height="7" rx="3.5" fill="#FFF000"/>
+  <rect x="56" y="128" width="84" height="7" rx="3.5" fill="#3fb950"/>
   <text x="56" y="172" class="sub">M.Sc. Data Science (ML &amp; AI) · FAU Erlangen-Nürnberg · Germany</text>
   <text x="56" y="214" class="prompt">&gt;</text>
   <text class="role r0" x="84" y="214">quantum machine learning</text><text class="role r1" x="84" y="214">quantum circuits on IBM Quantum &amp; IQM hardware</text><text class="role r2" x="84" y="214">optimisation: MILP and quantum-enhanced search</text><text class="role r3" x="84" y="214">deep learning and computer vision</text>
   <line x1="120" y1="268" x2="860" y2="268" class="wire"/><line x1="120" y1="304" x2="860" y2="304" class="wire"/><line x1="120" y1="340" x2="860" y2="340" class="wire"/><text x="106" y="273" class="ket" text-anchor="end">|0⟩</text><text x="106" y="309" class="ket" text-anchor="end">|1⟩</text><text x="106" y="345" class="ket" text-anchor="end">|0⟩</text><circle cx="120" cy="268" r="5" class="pulse"/><circle cx="120" cy="304" r="5" class="pulse"/><circle cx="120" cy="340" r="5" class="pulse"/><g class="gate" style="animation-delay:0.43s"><rect x="182" y="253" width="36" height="30" rx="7" class="gbox"/><text x="200" y="274" class="glabel" text-anchor="middle">H</text></g><g class="gate" style="animation-delay:0.43s"><rect x="182" y="325" width="36" height="30" rx="7" class="gbox"/><text x="200" y="346" class="glabel" text-anchor="middle">X</text></g><g class="gate" style="animation-delay:0.97s"><line x1="300" y1="268" x2="300" y2="304" class="ctl"/><circle cx="300" cy="268" r="6" class="cdot"/><circle cx="300" cy="304" r="12" class="tgt"/><line x1="292" y1="304" x2="308" y2="304" class="plus"/><line x1="300" y1="296" x2="300" y2="312" class="plus"/></g><g class="gate" style="animation-delay:1.51s"><rect x="382" y="325" width="36" height="30" rx="7" class="gbox"/><text x="400" y="346" class="glabel" text-anchor="middle">R<tspan dy='4' font-size='11'>y</tspan></text></g><g class="gate" style="animation-delay:2.05s"><line x1="500" y1="304" x2="500" y2="340" class="ctl"/><circle cx="500" cy="304" r="6" class="cdot"/><circle cx="500" cy="340" r="12" class="tgt"/><line x1="492" y1="340" x2="508" y2="340" class="plus"/><line x1="500" y1="332" x2="500" y2="348" class="plus"/></g><g class="gate" style="animation-delay:2.59s"><rect x="582" y="253" width="36" height="30" rx="7" class="gbox"/><text x="600" y="274" class="glabel" text-anchor="middle">H</text></g><g class="gate" style="animation-delay:3.14s"><line x1="700" y1="340" x2="700" y2="268" class="ctl"/><circle cx="700" cy="340" r="6" class="cdot"/><circle cx="700" cy="268" r="12" class="tgt"/><line x1="692" y1="268" x2="708" y2="268" class="plus"/><line x1="700" y1="260" x2="700" y2="276" class="plus"/></g><g class="gate" style="animation-delay:3.14s"><rect x="682" y="289" width="36" height="30" rx="7" class="gbox"/><text x="700" y="310" class="glabel" text-anchor="middle">Z</text></g><g class="gate" style="animation-delay:3.68s"><rect x="782" y="253" width="36" height="30" rx="7" class="gbox"/><path d="M790 275 A11 11 0 0 1 810 275" class="meter"/><line x1="800" y1="275" x2="808" y2="260" class="meter"/></g><g class="gate" style="animation-delay:3.68s"><rect x="782" y="289" width="36" height="30" rx="7" class="gbox"/><path d="M790 311 A11 11 0 0 1 810 311" class="meter"/><line x1="800" y1="311" x2="808" y2="296" class="meter"/></g><g class="gate" style="animation-delay:3.68s"><rect x="782" y="325" width="36" height="30" rx="7" class="gbox"/><path d="M790 347 A11 11 0 0 1 810 347" class="meter"/><line x1="800" y1="347" x2="808" y2="332" class="meter"/></g>
-  <circle cx="1022" cy="190" r="160" fill="#FFF000" class="disc"/>
-  <g class="bloch">
+  <circle cx="1022" cy="190" r="160" fill="url(#disc)" class="disc"/>
+  <g>
     <circle cx="1022" cy="190" r="108" class="sph"/>
     <ellipse cx="1022" cy="190" rx="108" ry="30" class="eq"/>
     <ellipse cx="1022" cy="190" rx="30" ry="108" class="eq faint"/>
