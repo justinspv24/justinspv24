@@ -34,42 +34,18 @@ I work on quantum computing, quantum machine learning and optimisation, alongsid
 </picture>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-atlas-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-atlas-light.svg">
-  <img alt="ATLAS: cell-tower placement across Germany" src="./assets/project-atlas-dark.svg" width="49%">
-</picture>
-<a href="https://github.com/justinspv24/Real_time_Multi_facial_emotion_recognition"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-emotion-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-emotion-light.svg">
-  <img alt="Real-time multi-face emotion recognition" src="./assets/project-emotion-dark.svg" width="49%">
-</picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-atlas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-atlas-light.svg"><img alt="ATLAS: cell-tower placement across Germany" src="./assets/project-atlas-dark.svg" width="49%"></picture>
+<a href="https://github.com/justinspv24/Real_time_Multi_facial_emotion_recognition"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-emotion-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-emotion-light.svg"><img alt="Real-time multi-face emotion recognition" src="./assets/project-emotion-dark.svg" width="49%"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/justinspv24/Tantrix_modeling"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-tantrix-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-tantrix-light.svg">
-  <img alt="Tantrix puzzle optimisation" src="./assets/project-tantrix-dark.svg" width="49%">
-</picture></a>
-<a href="https://github.com/justinspv24/Tool-Condition-Monitoring"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-tcm-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-tcm-light.svg">
-  <img alt="Tool condition monitoring" src="./assets/project-tcm-dark.svg" width="49%">
-</picture></a>
+<a href="https://github.com/justinspv24/Tantrix_modeling"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-tantrix-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-tantrix-light.svg"><img alt="Tantrix puzzle optimisation" src="./assets/project-tantrix-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/justinspv24/Tool-Condition-Monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-tcm-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-tcm-light.svg"><img alt="Tool condition monitoring" src="./assets/project-tcm-dark.svg" width="49%"></picture></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/justinspv24/DL-to-detect-breast-cancer-from-mammography"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-mammo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-mammo-light.svg">
-  <img alt="Breast cancer detection on mammograms" src="./assets/project-mammo-dark.svg" width="49%">
-</picture></a>
-<a href="https://github.com/justinspv24/Sentiment-Analysis-LSTM"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sentiment-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/project-sentiment-light.svg">
-  <img alt="Sentiment analysis with LSTM" src="./assets/project-sentiment-dark.svg" width="49%">
-</picture></a>
+<a href="https://github.com/justinspv24/DL-to-detect-breast-cancer-from-mammography"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-mammo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-mammo-light.svg"><img alt="Breast cancer detection on mammograms" src="./assets/project-mammo-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/justinspv24/Sentiment-Analysis-LSTM"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-sentiment-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-sentiment-light.svg"><img alt="Sentiment analysis with LSTM" src="./assets/project-sentiment-dark.svg" width="49%"></picture></a>
 </p>
 
 <picture>
